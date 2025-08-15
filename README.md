@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, I'm Rizal 👋
 
 <!--
 **zall18/zall18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Dicoding**
+- 🌱 I’m currently learning **Laravel** Framework
+![RUNN](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y4dnZocTJsZzQ1dGExc29tM2thcTJieW5qMmhyeWh4bTdkazE3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT9m/giphy.gif)
